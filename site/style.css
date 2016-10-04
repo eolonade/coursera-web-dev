@@ -1,0 +1,12 @@
+
+.full-width{
+	min-width: 900px;
+	float: true;
+}
+.h2-heading{
+	size: 16px;
+	text-align: center;
+}
+.welcome-col-1, .welcome-col-2, .welcome-col-3 {
+	text-align: left;
+}
